@@ -1,0 +1,93 @@
+.Nav
+{
+    background-color: black;
+    height: 10vh;
+    width: 100vw;
+    display: flex1;
+    justify-content: center;
+    align-items: center;
+}
+.Nav2
+{
+    background-color: White;
+    height: 10vh;
+    width: 100vw;
+    display: flex1;
+    justify-content: center;
+    align-items: center;
+}
+.Nav3{
+text-align: center;
+color: black;
+}
+.Nav h1
+{
+    font-size: 15px
+}
+.navi_1
+{
+    margin-left: 50%;
+}
+
+.Register_form
+{
+    width: 30vw;
+    padding: 30px;
+    margin: auto;
+    display: none;
+    margin-top: 10%;
+    border-radius: 10PX;
+    background-color: rgb(195, 240, 240);
+}
+.body{
+    background-color: White;
+    width: 100%;
+    height: 100vh;
+}
+
+
+.Login_form
+{
+    width: 30vw;
+    padding: 20px;
+    margin: auto;
+    margin-top: 10%;
+    background-color: rgb(195, 240, 240);
+    border-radius: 10PX;
+}
+
+.update_form{
+
+    width: 30vw;
+    padding: 20px;
+    margin: auto;
+    justify-content: center;
+    border-radius: 15px;
+    background-color: lightblue;
+}
+.mb-3
+{
+    width:100%;
+    padding: 10px;
+    border-radius: 20px;
+}
+label
+{
+    font-size: 15px;
+}
+
+.profile_div
+{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.profile_body
+{
+    background-image: url("../profileimage.jpg");
+    background-size : cover;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+}
